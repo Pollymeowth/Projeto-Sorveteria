@@ -1,0 +1,41 @@
+.container {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+    margin: 0 auto;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+}
+
+.info{
+    max-width: 1024px;
+    padding: 100px 20px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cardInfo {
+    width: 20%;
+    height: 100px;
+}
+.cardInfo h3{
+    font-size: 18px;
+}
+.dev{
+    width: 100%;
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+.dev span{
+    color: #f9db79;
+}
