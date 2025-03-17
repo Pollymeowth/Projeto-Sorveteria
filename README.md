@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍦 Projeto Sorveteria
 
-## Getting Started
+Este é um projeto de uma Single Page Application (SPA) desenvolvida com **React** e **Next.js**, representando o site de uma sorveteria.
 
-First, run the development server:
+## 🚀 Tecnologias Utilizadas
+- **React** (com Next.js)
+- **JavaScript/TypeScript**
+- **CSS Modules**
+- **Vercel** (para deploy)
+- **Git/GitHub** (para versionamento)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- ## 🌍 Acesse o Projeto Online
+O site está disponível em: [projeto-sorveteria-three.vercel.app](https://projeto-sorveteria-three.vercel.app/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+💡 **Dúvidas ou Sugestões?** Fique à vontade para contribuir ou abrir issues no repositório! 🚀
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![screencapture-localhost-3000-2025-03-17-19_28_45](https://github.com/user-attachments/assets/b1ac074b-e5f0-46c0-a83f-712971e5979d)
+![screencapture-localhost-3000-sabores-2025-03-17-19_40_44](https://github.com/user-attachments/assets/c256e391-62f3-479f-87a3-26d7bdba2502)
+![screencapture-localhost-3000-sobre-2025-03-17-19_40_51](https://github.com/user-attachments/assets/f63d4798-fa9b-47f3-a014-010a94ac548a)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
